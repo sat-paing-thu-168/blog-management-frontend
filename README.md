@@ -72,11 +72,12 @@ This project demonstrates modern full-stack development with **REST APIs, authen
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/sat-paing-thu-168/blog-management.git
+git clone https://github.com/sat-paing-thu-168/blog-management-backend
+git clone https://github.com/sat-paing-thu-168/blog-management-frontend
 ```
 
 ```bash
-cd blog-management
+cd blog-management-backend
 mvn clean install
 ```
 
